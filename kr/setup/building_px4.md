@@ -1,6 +1,7 @@
 # Building PX4 Software
 
 PX4 can be built on the console or in an IDE, for both simulated and hardware targets. 
+PX4는 콘솔모드와 IDE 환경에서 빌드될수있습니다. 이 둘은 시뮬레이션(SITL) 
 
 ## Downloading PX4 Source Code {#get_px4_code}
 
